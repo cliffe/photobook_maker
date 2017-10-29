@@ -2,9 +2,10 @@
 Creates professional styled photobook pages based on templates. Just put your images into the input folder, and run the script to create some layouts to choose between. 
 
 Example output:
-![Sample 1](/home/cliffe/Files/Projects/Photobook/pages/1_example_page/tempate1-6.svg.png) 
+
+![Sample 1](pages/1_example_page/tempate1-6.svg.png) 
 ---
-![Sample 2](/home/cliffe/Files/Projects/Photobook/pages/1_example_page/tempate3-8.svg.png) 
+![Sample 2](pages/1_example_page/tempate3-8.svg.png) 
 
 ## Install
 * Copy to a folder, such as /home/bin/photobook_maker
